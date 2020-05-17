@@ -1,2 +1,4 @@
 # Hello_World
-just another repository
+Hey!
+I am Ashree.
+I have completed Btech
