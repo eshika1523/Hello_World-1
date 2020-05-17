@@ -4,4 +4,4 @@ void main()
 {
 printf("Welocome to c");
 getch();
-)
+}
